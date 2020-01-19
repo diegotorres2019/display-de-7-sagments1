@@ -11,6 +11,7 @@ void setup()
   pinMode(12, OUTPUT);
   pinMode(13, OUTPUT);
 }
+
  
 void display (int a, int b, int c, int d, int e, int f, int g)
 // Funcion del display
